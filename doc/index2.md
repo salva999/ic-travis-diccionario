@@ -1,1 +1,1 @@
-Esto es una prueva
+Esto es una prueba
